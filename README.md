@@ -3,7 +3,7 @@
 ![Capa](https://github.com/daniellucas000/ignite-timer/assets/89029213/e5c3c124-67ea-4f16-a1bc-6a4579e2b6fd)
 
 <h3 align="center">
-    <a href="https://filmes-tmdb-five.vercel.app/">Acessar a demonstração</a>
+    <a href="https://filmes-tmdb-five.vercel.app/" target="_blank">Acessar a demonstração</a>
 <h3 >
 
 <h2>Sobre</h2>
