@@ -30,6 +30,7 @@ export const Content = styled(Dialog.Content)`
 export const TrailerNotFound = styled('div')`
   img {
     position: relative;
+    width: 100%;
   }
 
   h1 {
