@@ -15,7 +15,8 @@ export const MovieDetailContainer = styled('div')`
     border-radius: 10px;
 
     @media (max-width: 576px) {
-      width: 290px;
+      max-width: 290px;
+      width: 100%;
       height: 430px;
     }
   }
@@ -77,6 +78,7 @@ export const RatingWrapper = styled('div')`
 
 export const GenresContainer = styled('div')`
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-top: 1rem;
 
